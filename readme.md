@@ -18,3 +18,6 @@ This is a very good blog to practice deep learning models with Keras. The explai
 ## RNN
 * [Andrew NG Course](https://www.coursera.org/lecture/nlp-sequence-models/why-sequence-models-0h7gT)
 * [LSTM Blog](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+
+## GNN
+[Slide](http://i.stanford.edu/~jure/pub/talks2/graphsage_gin-ita-feb19.pdf)
