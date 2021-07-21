@@ -21,3 +21,5 @@ This is a very good blog to practice deep learning models with Keras. The explai
 
 ## GNN
 [Slide](http://i.stanford.edu/~jure/pub/talks2/graphsage_gin-ita-feb19.pdf)
+
+[blog1](https://www.section.io/engineering-education/an-introduction-to-graph-neural-network/)
